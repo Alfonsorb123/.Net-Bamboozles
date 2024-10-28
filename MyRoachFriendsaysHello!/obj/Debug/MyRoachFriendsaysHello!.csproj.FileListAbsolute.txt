@@ -1,0 +1,7 @@
+D:\GitHub\dotNet\.Net-Bamboozles\GithubReyal\MyRoachFriendsaysHello!\bin\Debug\MyRoachFriendsaysHello!.exe.config
+D:\GitHub\dotNet\.Net-Bamboozles\GithubReyal\MyRoachFriendsaysHello!\bin\Debug\MyRoachFriendsaysHello!.exe
+D:\GitHub\dotNet\.Net-Bamboozles\GithubReyal\MyRoachFriendsaysHello!\bin\Debug\MyRoachFriendsaysHello!.pdb
+D:\GitHub\dotNet\.Net-Bamboozles\GithubReyal\MyRoachFriendsaysHello!\obj\Debug\MyRoachFriendsaysHello!.csproj.AssemblyReference.cache
+D:\GitHub\dotNet\.Net-Bamboozles\GithubReyal\MyRoachFriendsaysHello!\obj\Debug\MyRoachFriendsaysHello!.csproj.CoreCompileInputs.cache
+D:\GitHub\dotNet\.Net-Bamboozles\GithubReyal\MyRoachFriendsaysHello!\obj\Debug\MyRoachFriendsaysHello!.exe
+D:\GitHub\dotNet\.Net-Bamboozles\GithubReyal\MyRoachFriendsaysHello!\obj\Debug\MyRoachFriendsaysHello!.pdb
